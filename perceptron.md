@@ -2,6 +2,8 @@
 
 A Perceptron is the simplest building block of a neural network
 
+![alt text](assets/perceptron.png)
+
 ## Math behind Perceptron
 
 Example: student passes an exam based on two factors and the following weights
