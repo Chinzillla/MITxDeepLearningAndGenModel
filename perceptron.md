@@ -70,3 +70,20 @@ Python Implementation: [Manual Perceptron Project](manual_perceptron.py)
 3. Output: pass or fail, hours of sleep or study needed to pass
 
 ## Perceptron Learning
+
+How does a Perceptron learn?
+- Perceptron makes predictions and compare the predictions with correct answers.
+- Weights get adjusted
+- Bias gets adjusted
+
+Perception Learning Algorithm
+1. Predict: Calculate a result
+2. Compare: Check correct label
+3. Update: adjust w and b
+4. Repeat
+
+key terms:
+```
+y-hat: Predicted output from perceptron
+eta(ay-tuh): Learning Rate
+```

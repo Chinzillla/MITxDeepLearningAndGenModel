@@ -24,7 +24,7 @@ def calculate_z(dp, b):
 
 # Define the piecewise function
 def piecewise_func(z):
-    if z >= 1:
+    if z >= 0:
         return True
     else:
         return False 
